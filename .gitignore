@@ -1,0 +1,9 @@
+tags
+*.swp
+.DS_Store
+,/
+,*
+node_modules
+.bundle
+.byebug_history
+vendor
