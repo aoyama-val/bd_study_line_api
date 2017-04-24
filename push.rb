@@ -1,6 +1,7 @@
 require "line/bot"
 
 require_relative "./env.rb"
+require_relative "./get_profile.rb"
 
 user_id = AOYAMA_USER_ID
 
